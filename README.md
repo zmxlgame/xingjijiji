@@ -2,9 +2,9 @@
 
 
 ```
-利用手指移动飞机来控制飞机的左右，上下移动控制飞机，躲避障碍物。
-控制飞机进行不断的攻击，躲避陨石，获取高分 。
-如果你不小心触摸到陨石就会机体就会受损，三次之后将终止飞行之旅，重新开始。积分也会消失。
+Use your finger to move the plane to control the movement of the aircraft up and down and left and right.
+Control the aircraft to carry out constant attacks, avoid the meteorites, and obtain high scores.
+If the plane accidentally touches the meteorite, the body will be damaged. After three times, the flight will be terminated, the game will start again and the points will disappear.
 ```
 
 ![](1.png)
